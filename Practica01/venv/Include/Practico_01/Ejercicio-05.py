@@ -5,4 +5,4 @@ def multip():
         resultado = resultado*numero
     print(resultado)
 
-multip()
+assert (multip() == 24)
