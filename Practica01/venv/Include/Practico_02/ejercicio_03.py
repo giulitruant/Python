@@ -48,5 +48,3 @@ print(p.print_data())
 
 #except ValueError:
  #   print('Ingreso datos erroneos, intente nuevamente')
-
-
